@@ -1,3 +1,5 @@
+//This program multiplies two user defined matrices
+
 #include<iostream>
 using namespace std;
 int main()
